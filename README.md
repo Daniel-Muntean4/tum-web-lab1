@@ -31,7 +31,6 @@ Use this template as your first Pull Request "Add basic index.html".
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Your Name - CV/Resume</title>
   </head>
-
   <body></body>
 </html>
 ```
